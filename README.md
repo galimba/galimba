@@ -22,3 +22,8 @@ My updated cv at [cv.galimba.com.ar](https://www.linkedin.com/in/galimba/)
 ![](https://img.shields.io/badge/Cloud-GCP-blue?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-blue?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galimba&theme=dark&show_icons=true&count_private=true" alt="Galimba Github Stats"></img>
+</p>
+
+</center>
